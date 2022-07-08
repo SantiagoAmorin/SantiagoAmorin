@@ -1,1 +1,0 @@
-App desarrollada para proyecto academico en conjunto con los compañeros Pablo Gomez y Tomas lanterna
