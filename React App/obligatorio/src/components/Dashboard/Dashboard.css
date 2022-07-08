@@ -1,0 +1,12 @@
+div.dashboard div.col-6 {
+  min-height: 80px !important;
+  border: #138496 solid 1px !important;
+}
+div.dashboard h1 {
+  margin: 10px;
+  text-align: left;
+}
+
+.row.chart {
+  margin: 5% 0;
+}

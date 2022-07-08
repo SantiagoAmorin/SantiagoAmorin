@@ -1,0 +1,7 @@
+section.venta {
+  margin-top: 5%;
+}
+
+section.venta > div.card {
+  padding: 20px !important;
+}

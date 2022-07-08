@@ -1,0 +1,94 @@
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll.config
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.pdb
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.xml
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csprojAssemblyReference.cache
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CopyComplete
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.pdb
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.pdb
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll.config
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.pdb
+C:\Users\tomas.lanterna\Documentos\ORT\Programacion 3\Obl 2 P3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.1\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csprojAssemblyReference.cache
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CopyComplete
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.2\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\ImportadoArchivos.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\DataAccess.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ImportadoArchivos\obj\Debug\ImportadoArchivos.pdb

@@ -1,0 +1,160 @@
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.dll.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.exe
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.exe.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.rsp
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.exe
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.exe.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.rsp
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.AppContext.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Console.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.Compression.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Net.Http.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.ValueTuple.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.exe
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.exe.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.rsp
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\VBCSCompiler.exe
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Newtonsoft.Json.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Net.Http.Formatting.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.WebHost.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Newtonsoft.Json.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Net.Http.Formatting.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.WebHost.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\es\System.Web.Http.resources.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csprojAssemblyReference.cache
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csproj.CoreCompileInputs.cache
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csproj.CopyComplete
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.SqlServer.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.SqlServer.xml
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\DataAccess.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Dominio.dll
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\DataAccess.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\DataAccess.dll.config
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Dominio.pdb
+C:\Users\tomas.lanterna\Downloads\Obligatorio2Prog\ApiVacunas\bin\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\ApiVacunas.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\DataAccess.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Dominio.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\DataAccess.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\DataAccess.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Dominio.pdb
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Dominio.dll.config
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.dll
+C:\Users\Usuario\Desktop\Obl 2 P3\Obligatorio2Prog1.3\Obligatorio2Prog\ApiVacunas\obj\Debug\ApiVacunas.pdb

@@ -1,0 +1,8 @@
+1|BioNTech-Pfizer|Alemania|True|
+2|Covaxin|India|False|
+3|Moderna|Estados Unidos|True|
+4|Oxford|Inglaterra|True|
+5|Pfizer|Estados Unidos|True|
+6|Sinopharm|China|True|
+7|Sinovac|China|True|
+8|Sputnik V|Rusia|False|

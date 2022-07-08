@@ -1,0 +1,18 @@
+16|Sinovac
+17|Covaxin
+17|Moderna
+18|Oxford
+18|Sinopharm
+19|Sputnik V
+20|Sinopharm
+21|Pfizer
+22|Sputnik V
+23|Sinopharm
+23|Sinovac
+24|Moderna
+25|BioNTech-Pfizer
+25|Pfizer
+26|Moderna
+26|Pfizer
+27|Pfizer
+27|BioNTech-Pfizer

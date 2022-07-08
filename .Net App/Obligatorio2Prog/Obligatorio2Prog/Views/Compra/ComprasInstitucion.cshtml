@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Obligatorio2Prog.Models.DetalleCompra>
+
+@{
+    ViewBag.Title = "ComprasInstitucion";
+}
+
+<h2>Compras Institucion</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cantidadVac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precioVac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.montoTotal)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadVac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precioVac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.montoTotal)
+            </td>
+        </tr>
+    }
+    <tr>
+        <td>
+            Compras disponible: @ViewBag.comprasDisp            
+        </td>
+        <td>
+            Monto Autorizado: @ViewBag.montoAutorizado
+        </td>
+        <td>
+            Saldo disponible: @ViewBag.saldoDisp
+        </td>    
+    </tr>
+
+</table>

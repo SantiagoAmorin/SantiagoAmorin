@@ -1,0 +1,7 @@
+section.login {
+  margin-top: 8%;
+}
+
+section.login > div.card {
+  padding: 20px !important;
+}

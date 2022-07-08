@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Obligatorio2Prog.Models.DetalleVacuna>
+
+@{
+    ViewBag.Title = "ListadoVacunas";
+}
+
+<h2>ListadoVacunas</h2>
+
+@if (Session["logueado"] != null)
+{
+    using (Html.BeginForm())
+    {
+        <label>Fase Clinica</label>
+        <input type="number" id="faseClinica" name="faseClinica">
+        <br />
+        <label>Precio Minimo</label>
+        <input type="number" id="precioMin" name="precioMin">
+        <br />
+        <label>Precio Maximo</label>
+        <input type="number" id="precioMax" name="precioMax">
+        <br />
+        <label>Tipo Vacuna</label>
+        <select id="tipoVac" name="tipoVac" value="tipoVac">
+            <option selected></option>
+            <option value="IV">IV</option>
+            <option value="mRNA">mRNA</option>
+            <option value="PB">PB</option>
+            <option value="VV">VV</option>
+        </select>
+        <br />
+        <label>Nombre de Laboratorio</label>
+        <input type="text" id="nomLab" name="nomLab">
+        <br />
+        <label>Pais aceptada</label>
+        <input type="text" id="vacPais" name="vacPais">
+        <br />
+        <select id="filtradoElej" name="filtradoElej">
+            <option selected disabled>Seleccione una forma de filtrado</option>
+            <option value="fltComb">Devolver vacunas combinadas</option>
+            <option value="fltSolo">Devolver vacunas con valores</option>            
+        </select>
+        <br />
+
+        <input type="submit" id="aplicar" value="Aplicar">
+    }
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipo)
+            </td>
+            <td>
+                @Html.ActionLink("Comprar", "CompraVacuna", new { id = item.idVac })
+
+            </td>
+        </tr>
+    }
+
+    <H4><strong>@Session["msgErrorCompraVacuna"]</strong></H4>
+</table>

@@ -1,0 +1,213 @@
+﻿@model Obligatorio2Prog.Models.DetalleCompra
+
+@{
+    ViewBag.Title = "Compra Vacuna";
+}
+
+<h2>CompraVacuna</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>DetalleCompra</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.idVac)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.idVac)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.cantDosis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.cantDosis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.plazoDosis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.plazoDosis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.faseClinica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.faseClinica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.aprovEmerg)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.aprovEmerg)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.efectosAdvers)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.efectosAdvers)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.mecanismoCOVAX)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.mecanismoCOVAX)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.tempMin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.tempMin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.tempMax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.tempMax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.edadMin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.edadMin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.edadMax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.edadMax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.ciUsuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.ciUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.prevHosp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.prevHosp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.prevCTI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.prevCTI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.prevCovid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.prevCovid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.fechActua)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.fechActua)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.vacuna.produAnual)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.vacuna.produAnual)
+        </dd>
+
+    </dl>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.cantidadVac, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.cantidadVac, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.cantidadVac, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Seleccione la institucion", htmlAttributes: new { @class = "control-label col-md-2" })
+
+        <div class="col-10">
+            @Html.DropDownListFor(model => model.institucion, Model.todosInstituciones, new { @class = "form-control" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Comprar" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

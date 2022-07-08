@@ -1,0 +1,9 @@
+span.badge {
+  color: white !important;
+  font-size: 18px;
+}
+
+.row.metrics-ventas {
+  margin: 5% 0;
+  justify-content: center;
+}

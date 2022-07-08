@@ -1,0 +1,4 @@
+Virus Inactivado|IV|Vacuna virus inactivo
+ARN Mensajero|mRNA|Vacuna ARN mensajero
+Basado en proteinas|PB|Vacuna basada en proteinas
+VECTOR VIRAL|VV|VACUNA DE VECTOR VIRAL
