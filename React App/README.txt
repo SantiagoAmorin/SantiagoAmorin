@@ -1,0 +1,1 @@
+Aplicacion desarrollada para proyecto acadèmico en conjunto con el compañero Mateo Aguirre
